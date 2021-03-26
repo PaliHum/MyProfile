@@ -2,8 +2,6 @@
 
 I'm really appreciate for your interesting on me.
 
-View my profile via Git page ,please click follow URL : [MyProfile on GitHub](https://palihum.github.io/MyProfile) 
-
 I'm attach my link git and my content to learn myself as below : 
 
 [ShareDrive GoogleSheet](https://github.com/PaliHum/GoogleShareDrive.git)
