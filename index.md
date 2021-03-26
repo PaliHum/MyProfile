@@ -14,7 +14,7 @@ I'm attach my link git and my content to learn myself as below :
 
 [Cypress Installation ShareDrive GoogleSheet](https://github.com/PaliHum/GoogleShareDrive.git)
 
-[Robot Installation & Basic note](https://github.com/PaliHum/Ex.RobotBasic.git)
+[Robot Installation & Basic](https://github.com/PaliHum/Ex.RobotBasic.git)
 
 
 
