@@ -12,6 +12,8 @@ I'm attach my link git and my content to learn myself as below :
 
 [Example Java Basic](https://github.com/PaliHum/Ex.JavaBasic.git)
 
+[Example Python Basic](https://github.com/PaliHum/Python.git)
+
 [Jmeter is content sharing soon!!](https://palihum.github.io/MyProfile/)
 
 Contact me : 
